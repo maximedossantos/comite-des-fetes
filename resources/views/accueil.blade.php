@@ -5,7 +5,7 @@
     <div class="page">
         <section>
             <div class="page__fond">
-                <img class="accueil__fond" src="images/fond.jpg">
+                <img class="page__fond--image" src="images/fond.jpg">
             </div>
         </section>
 

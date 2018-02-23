@@ -8,6 +8,8 @@
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 
+@import "page";
+@import "header";
 @import 'accueil';
 
 .navbar-laravel {
