@@ -1,0 +1,14 @@
+.typo{
+    &__texte{
+        &__indent{
+            &--60{
+                text-indent: 60px;
+            }
+            
+            &--120{
+                text-indent: 120px
+            }
+            
+        }
+    }
+}

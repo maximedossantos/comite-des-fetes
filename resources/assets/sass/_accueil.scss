@@ -1,6 +1,28 @@
-.accueil{
-
-    &__icone{
+.page__accueil{
+    
+    &__entete{
         width: 20%;
+        margin: auto;
+        height: 305px;
+    
+        &--icone{
+            width: 300px;
+            position: absolute;
+            left: 0;
+            top: 2px;
+        }
+        
+        h1{
+            p{
+                margin: 0;
+                font-family: 'Titillium Web', sans-serif;
+            }
+            
+            span{
+                font-size: 20px;
+            }
+        }
+    
     }
+
 }
