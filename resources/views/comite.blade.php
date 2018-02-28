@@ -24,6 +24,13 @@
 
         <h2>Histoire</h2>
 
+        <section class="comite">
+            <div class="container">
+                <div class="comite__cadre">
+                    <img src="images/equipe.jpg">
+                </div>
+            </div>
+        </section>
     </div>
 
 @endsection

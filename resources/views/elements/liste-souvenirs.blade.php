@@ -1,19 +1,17 @@
 <div class="container">
     <div class="card-group">
         <div class="card">
-            <img class="card-img-top" src="..." alt="Card image cap">
+            <img class="card-img-top" src="images/cabaret.jpg" alt="Card image cap">
             <div class="card-block">
-                <h4 class="card-title">Soirée Cabaret</h4>
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                <h4 class="card-title">07/10/2017</h4>
+                <p class="card-text">Revivez la soirée avec la troupe quovadis show.</p>
             </div>
         </div>
         <div class="card">
-            <img class="card-img-top" src="..." alt="Card image cap">
+            <img class="card-img-top" src="images/fete_musique_affiche.jpg" alt="Card image cap">
             <div class="card-block">
-                <h4 class="card-title">Fête de la musique</h4>
-                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                <h4 class="card-title">10/06/2017</h4>
+                <p class="card-text">Joyeux bordel et Samifati vous on fait vibrez, regarder les photos de notre soirée.</p>
             </div>
         </div>
         <div class="card">
@@ -21,7 +19,6 @@
             <div class="card-block">
                 <h4 class="card-title">Card title</h4>
                 <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
         </div>
     </div>

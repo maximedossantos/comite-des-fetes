@@ -1,0 +1,14 @@
+.page{
+    .comite{
+        &__cadre{
+            height: 390px;
+            position: relative;
+            overflow: hidden;
+                img{
+                    top: -130px;
+                    position: absolute;
+                }
+        }
+    }
+
+}

@@ -9113,6 +9113,21 @@ a.text-dark:hover, a.text-dark:focus {
   font-size: 20px;
 }
 
+.page .souvenirs .card-group .card img {
+  height: 150px;
+}
+
+.page .comite__cadre {
+  height: 390px;
+  position: relative;
+  overflow: hidden;
+}
+
+.page .comite__cadre img {
+  top: -130px;
+  position: absolute;
+}
+
 .navbar-laravel {
   background-color: #fff;
   -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
