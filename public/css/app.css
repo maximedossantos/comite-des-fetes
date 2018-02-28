@@ -9044,8 +9044,12 @@ a.text-dark:hover, a.text-dark:focus {
   height: 100%;
 }
 
-.page h2 {
+.page h1 {
   text-align: center;
+}
+
+.page h2 {
+  text-align: left;
 }
 
 .page__contenu__entete {

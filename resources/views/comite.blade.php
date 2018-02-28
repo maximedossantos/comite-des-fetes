@@ -2,10 +2,10 @@
 
 @section('body')
 
-    <div class="page page__accueil">
+    <div class="page page__contenu">
         <section>
-            <div class="page__fond">
-                <img class="page__fond--image" src="images/fond.jpg">
+            <div class="page__contenu__fond">
+                <img class="page__fond--image page__contenu__fond__image" src="images/fond.jpg">
             </div>
         </section>
 
@@ -13,22 +13,19 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <div class="page__accueil__entete">
-                            <img class="page__accueil__entete--icone hidden-xs" src="images/icone.png">
-                            <h1 class="hidden-xs">
-                                <p>Comité</p>
-                                <p class="typo__texte__indent--60">Des</p>
-                                <p class="typo__texte__indent--120">Fêtes</p>
-                                <span>La Verrie</span>
-                            </h1>
+                        <div class="page__contenu__entete">
+                            <img class="page__contenu__entete__icone hidden-xs" src="images/icone.png">
+                            <h1 class="hidden-xs">Le comité</h1>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
 
+        <h2>Histoire</h2>
+
     </div>
 
-    <h1>Accueil</h1>
+
 
 @endsection
