@@ -8,19 +8,19 @@
                 <a class="navbar-brand" href="#"></a>
                 <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Accueil <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="/">Accueil <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Evénements</a>
+                        <a class="nav-link" href="/evenements">Evénements</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Souvenirs</a>
+                        <a class="nav-link" href="/souvenirs">Souvenirs</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Le Comité</a>
+                        <a class="nav-link" href="comite">Le Comité</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contact</a>
+                        <a class="nav-link" href="contact">Contact</a>
                     </li>
                 </ul>
             </div>

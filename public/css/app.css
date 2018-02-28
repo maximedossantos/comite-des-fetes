@@ -9026,6 +9026,10 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
+.page__entete__icone {
+  width: 50px;
+}
+
 .page__fond {
   z-index: -1;
   position: absolute;
@@ -9040,8 +9044,35 @@ a.text-dark:hover, a.text-dark:focus {
   height: 100%;
 }
 
-.page__icone {
+.page h2 {
+  text-align: center;
+}
+
+.page__contenu__entete {
   width: 20%;
+  margin: auto;
+  height: 145px;
+}
+
+.page__contenu__entete__icone {
+  position: absolute;
+  left: 0;
+  top: 2px;
+  width: 120px;
+}
+
+.page__contenu__fond {
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  height: 200px;
+}
+
+.page__contenu__fond--image {
+  width: 100%;
+  height: 100%;
 }
 
 .typo__texte__indent--60 {

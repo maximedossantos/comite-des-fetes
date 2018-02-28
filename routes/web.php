@@ -14,3 +14,19 @@
 Route::get('/', function () {
     return view('accueil');
 });
+
+Route::get('/evenements', function (){
+   return view('evenements');
+});
+
+Route::get('/souvenirs', function (){
+    return view('souvenirs');
+});
+
+Route::get('/comite', function (){
+    return view('comite');
+});
+
+Route::get('/contact', function (){
+    return view('contact');
+});
