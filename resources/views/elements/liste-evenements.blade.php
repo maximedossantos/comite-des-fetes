@@ -1,5 +1,5 @@
 <div class="container">
-    <div class="header">
+
         <div class="row">
             <div class="col-sm-6">
                 <div class="card">
@@ -28,5 +28,4 @@
                 </div>
             </div>
         </div>
-    </div>
 </div>

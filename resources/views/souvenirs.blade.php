@@ -24,6 +24,10 @@
 
         <h2>Galeries</h2>
 
+        <section>
+            @include('elements.liste-souvenirs')
+        </section>
+
     </div>
 
 
